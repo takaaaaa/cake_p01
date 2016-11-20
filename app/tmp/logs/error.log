@@ -1,3 +1,77 @@
 2016-11-20 06:42:12 Error: [MissingControllerException] Controller class Cakep01Controller could not be found.
 #0 C:\xampp\htdocs\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2016-11-20 07:34:50 Error: [MissingActionException] Action Cakep01Controller::cakep01() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:34:51 Error: [MissingActionException] Action Cakep01Controller::css() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:34:51 Error: [MissingActionException] Action Cakep01Controller::img() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:34:51 Error: [MissingActionException] Action Cakep01Controller::favicon.ico() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:35:28 Error: [MissingActionException] Action Cakep01Controller::cakep01() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:35:28 Error: [MissingActionException] Action Cakep01Controller::css() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:35:28 Error: [MissingActionException] Action Cakep01Controller::img() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:38:00 Error: [MissingActionException] Action Cakep01Controller::cakep01() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:38:01 Error: [MissingActionException] Action Cakep01Controller::img() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:38:01 Error: [MissingActionException] Action Cakep01Controller::css() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:38:01 Error: [MissingActionException] Action Cakep01Controller::img() could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(Cakep01Controller), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#4 {main}
+2016-11-20 07:56:35 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#2 {main}
+2016-11-20 07:56:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 C:\Users\PETABIT N-095\Documents\GitHub\cake_p01\cake_p01\index.php(40): require('C:\\Users\\PETABI...')
+#2 {main}
